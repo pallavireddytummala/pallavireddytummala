@@ -3,19 +3,19 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavireddytummala&label=Profile%20views&color=0e75b6&style=flat" alt="pallavireddytummala" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Machine learning, BlockChaIn**
+- 🌱 I’m currently learning **MERN Stack, Machine learning, BlockChaIn, CyberSecurity, Cloud Computing**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects, coding projects**
+- 👯 I’m looking to collaborate on **MERN Stack projects, coding projects, Machine Learning projects, Cloud computing projects**
 
-- 🤝 I’m currently working on **MERN Stack**
+- 🤝 I’m currently working on **Cloud Computing and Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pallavireddytummala](https://github.com/pallavireddytummala)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, DBMS, CN, OS**
 
 - 📫 How to reach me **pallavireddytummala2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L5H49Qo0O-vyOmdlWJ3BHpAdj4Z4IQHi/view?usp=sharing](https://drive.google.com/file/d/1L5H49Qo0O-vyOmdlWJ3BHpAdj4Z4IQHi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L5H49Qo0O-vyOmdlWJ3BHpAdj4Z4IQHi/view?usp=sharing](https://drive.google.com/file/d/1zZawT44chwqc6he8XkZKwvX8IrVHbfDy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
