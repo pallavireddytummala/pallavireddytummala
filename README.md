@@ -14,6 +14,9 @@
 - **Machine Learning & Data-Driven Applications**
 - **Cloud Computing (AWS, Azure)**
 - **Cybersecurity & Secure Application Development**
+- **Advanced Data Structures & Algorithms**
+- **System Design & Scalable Architectures**
+- **Siemens Teamcenter PLM — Configuration, Customization & Automation**
 
 ---
 
@@ -21,11 +24,17 @@
 - Full Stack Web Applications 🚀  
 - Machine Learning and AI-based Projects 🤖  
 - Cloud-native and Scalable Systems ☁️  
+- DSA and Competitive Programming Challenges 💡  
+- System Design and Distributed System Implementations ⚙️  
+- PLM Automation or Teamcenter Customization Projects 🧩  
 
 ---
 
-### 💬 Ask Me About
-**HTML, CSS, JavaScript, React.js, Node.js, Express.js, DBMS, Operating Systems, Computer Networks, C/c++, Java, Python**
+### 🗣️ Languages I Know
+- 💻 **Programming Languages:** C, C++, Java, Python, JavaScript  
+- 🧠 **Technical Expertise:** Data Structures & Algorithms, System Design, MERN Stack, Teamcenter PLM, Database Design, REST APIs  
+- 🌐 **Web Technologies:** HTML, CSS, React.js, Node.js, Express.js, MongoDB, SQL  
+- 🗣️ **Spoken Languages:** English, Telugu, Hindi  
 
 ---
 
@@ -65,6 +74,7 @@
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.plm.automation.siemens.com/global/en/products/teamcenter/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Siemens_AG_logo.svg" alt="Teamcenter" width="60" height="40"/></a>
 </p>
 
 ---
