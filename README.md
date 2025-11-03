@@ -15,14 +15,14 @@
 
 - 📫 How to reach me **pallavireddytummala2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L5H49Qo0O-vyOmdlWJ3BHpAdj4Z4IQHi/view?usp=sharing](https://drive.google.com/file/d/1zZawT44chwqc6he8XkZKwvX8IrVHbfDy/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1zZawT44chwqc6he8XkZKwvX8IrVHbfDy/view?usp=sharing](https://drive.google.com/file/d/1q_Qgv-kDh4WI043DWbprwLYVn3b81-jc/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/pvp_21501a05h3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pvp_21501a05h3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/21501a05h3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21501a05h3" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pallavireddy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pvp_21501a05h3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pallavitummala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21501a05h3" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pallavireddytummala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pallavireddytummala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/21501a05h3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21501a05h3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pallavireddytummala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21501a05h3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
