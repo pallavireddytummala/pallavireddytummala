@@ -38,11 +38,9 @@
 
 ---
 
-### 📫 How to Reach Me
-📧 **pallavireddytummala2003@gmail.com**
+### 📫 How to Reach Me - **pallavireddytummala2003@gmail.com**
 
-📄 **Know more about my experiences:**  
-[My Resume](https://drive.google.com/file/d/1q_Qgv-kDh4WI043DWbprwLYVn3b81-jc/view?usp=sharing)
+📄 **Know more about my experiences:**  **[My Resume](https://drive.google.com/file/d/1q_Qgv-kDh4WI043DWbprwLYVn3b81-jc/view?usp=sharing)**
 
 ---
 
